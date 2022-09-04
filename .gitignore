@@ -1,9 +1,11 @@
 # temp files
-game_database.*
-score_file.*
+game_database.bak
+game_database.dat
+game_database.dir
+score_file.txt
 
 # output
-ooutput
+output
 
 #.vscode
 .vscode
