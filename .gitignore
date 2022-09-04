@@ -1,6 +1,6 @@
 # temp files
-game_database
-score_file
+game_database.*
+score_file.*
 
 # output
 output
