@@ -3,7 +3,7 @@ game_database.*
 score_file.*
 
 # output
-output
+ooutput
 
 #.vscode
 .vscode
