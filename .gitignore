@@ -1,0 +1,10 @@
+# temp files
+game_database
+score_file
+
+# output
+output
+
+#.vscode
+.vscode
+
