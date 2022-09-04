@@ -1,5 +1,0 @@
--,0
-maxxx,10
-elphy,22
-maxi,10
-buggy,22
