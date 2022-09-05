@@ -2,16 +2,16 @@
 
 ## To see the apps working
 
-Please download the whole repository then you can open the py files in your IDE 
+Please download the whole repository then you can open the .py files in your IDE 
 or you can run the .exe files.
 
 ## The concepts covered in the programms
 
--OOP
--TKINTER Library
--Functional Programming
--Working with files
--Algorithms
+- OOP
+- TKINTER Library
+- Functional Programming
+- Working with files
+- Algorithms
 
 ## The .exe files
 
